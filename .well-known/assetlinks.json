@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.mapapseli",
+      "sha256_cert_fingerprints": [
+        "BE:01:C8:4E:CD:87:A7:BE:06:07:3C:6E:EB:28:47:EE:30:83:FB:46:1A:BB:81:CB:BC:42:43:81:62:D6:99:2E"
+      ]
+    }
+  }
+]
